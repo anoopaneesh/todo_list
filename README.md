@@ -1,6 +1,8 @@
 # todo_list
 
-A simple flutter application
+This is a todo application which has firebase realtime database as backend and firebase authentication
+
+This app was built in flutter
 
 ## Getting Started
 
